@@ -1,7 +1,7 @@
 <h1 align="center">Keraunos</h1>
 <h3 align="left">Nuker I made, v1 was absolute dogshit, so this is revamped.</h3>
 
-<h1 align="center">Some Languages I Know</h1>
+<h1 align="center">Features</h1>
 
 ```js
 const features = ["Ban All", "Delete Messages", "Delete Roles", "Spam channels","And so much more!"]
